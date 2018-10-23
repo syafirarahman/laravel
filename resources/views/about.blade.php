@@ -79,13 +79,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Belajar Laravel
+                   About
                 </div>
 
-                <div class="links">
-                    <a href="pesan">Pesan</a> <!-- return link -->
-                    <a href="about">About</a> <!-- return link -->
-                    
+                <div >
+                  <p>Halaman ini buatan saya disaat saya lagi semangat nih</p><br/>
+                  <a href="/">Home</a>
                 </div>
             </div>
         </div>

@@ -79,13 +79,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Belajar Laravel
+                  Pesan Anda
                 </div>
 
-                <div class="links">
-                    <a href="pesan">Pesan</a> <!-- return link -->
-                    <a href="about">About</a> <!-- return link -->
-                    
+                <div >
+                  <p><?php echo $_POST['pesan'];?></p><br/>
+                  <a href="/">Home</a>
                 </div>
             </div>
         </div>
